@@ -2773,6 +2773,7 @@ here,šeit
 Status:,Statuss:
 "Please select a shipping method...","Lūdzu, izvēlaties piegādes metodi..."
 Manage,Pārvaldīt
+"Display on Product Details Page","Produkta informācija"
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Jā opcija ir iespējota, klients var mainīt piegādes adresi un piegādes metodi Paypal tīkla lapā. Produkcijas režīmā darbojas tikai caur Https protokolu."
 "Not you?","Ne Jūs?"
 "Edit Product Price","Labot produkta cenu"
