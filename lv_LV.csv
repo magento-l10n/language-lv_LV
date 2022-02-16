@@ -2162,6 +2162,7 @@ Login,Lietotājvārds
 "Cart Subtotal","Groza starpsumma"
 "No Payment method available.","Norēķinu veidi nav pieejami."
 "You can track your order status by creating an account.","Jūs varat izsekot sava pirkuma statusam, ja izveidosiet profilu."
+"Create an Account","Izveidot kontu"
 "Forgot an Item?","Aizmirsi pievienot produktu?"
 "Edit Your Cart","Atjauniniet savu pirkuma grozu"
 "Ship Here","Piegādāt šeit"
@@ -2658,6 +2659,7 @@ items,produkti
 "Admin Actions Log Archive","Administratora Darbību Žurnāla Arhīvs"
 "All Users","Visi lietotāji"
 Report,Atskaite
+Archive,Arhīvs
 Reorder,"Pasūtīt atkārtoti"
 Print,Drukāt
 "Cart Price Rules","Iepirkuma groza cenu noteikumi"
@@ -2668,6 +2670,7 @@ Print,Drukāt
 Widget,Logrīks
 "IP Address","IP adrese"
 Partners,Partneri
+"Read More","Lasīt tālāk"
 Synchronize,Sinhronizēt
 "Some exception","Daži izņēmumi"
 "To see product price, add this item to your cart. You can always remove it later.","Lai apskatītu produkta cenu, pievienojiet to pirkumu grozam."

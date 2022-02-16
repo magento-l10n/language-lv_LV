@@ -1,6 +1,6 @@
 {
     "name": "community-engineering/language-lv_lv",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "type": "magento2-language",
     "description": "lv_LV language package.",
     "license": [
