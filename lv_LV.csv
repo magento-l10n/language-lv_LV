@@ -2860,6 +2860,7 @@ Nickname,Segvārds
 "Save and Next","Saglabāt un turpināt"
 "Delete Review","Dzēst atsauksmi"
 Administrator,Administrators
+Author,Autors
 "Summary Rating","Vērtējuma kopsavilkums"
 "Detailed Rating","Detalizēts vērtējums"
 "Update Status","Atjaunot statusu"
@@ -3132,6 +3133,7 @@ Keyword,Atslēgvārds
 "Please specify a valid mobile number","Lūdzu, norādiet derīgu mobilā tālruņa numuru"
 "Invalid format.","Nederīgs formāts."
 "Empty Value.","Tukša vērtība."
+"Please enter a valid email address (Ex: johndoe@domain.com).","Lūdzu ievadiet derīgu ē-pasta adresi (piem: johndoe@gmail.com)"
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Parolei jābūt vismaz %1 simbolu garai. Tukšuma simboli sākumā un beigās tiks ignorēti."
 Container,Konteiners
 "User ID","Lietotāja ID"
