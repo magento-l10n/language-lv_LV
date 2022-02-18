@@ -2265,6 +2265,7 @@ Contacts,Kontakti
 "Add New User","Pievienot jaunu lietotāju"
 "Create an Account",Reģistrēties
 "When you sign in to your account, you will be able to:","Pieslēdzoties kontam Jūs varēsiet:"
+Proceed,Turpināt
 "Edit User","Labot lietotāju"
 Comment,Komentārs
 "My Orders","Mani pasūtījumi"
@@ -2384,6 +2385,7 @@ Newsletters,Jaunumi
 "It's a default billing address.","Tā ir noklusētā rēķinu adrese."
 "It's a default shipping address.","Tā ir noklusētā piegādes adrese."
 "Additional Address Entries","Citas adreses"
+"Change Email","Mainīt e-pasta adresi"
 "Current Password","Pašreizējā parole"
 "Password Strength","Paroles stiprums"
 "No Password","Nav paroles"
@@ -2416,6 +2418,7 @@ Strong,Stipra
 "All Customers","Visi klienti"
 "Default Group","Noklusētā grupa"
 "Show Tax/VAT Number","Rādīt PVN maksātaja numuru"
+"Edit Account Information","Rediģēt jūsu konta informāciju"
 "You are signed out","Tu esi izrakstījies"
 "Customer Address Attributes","Klienta Adreses Atribūti"
 "Please specify a finance information website.","Norādiet finanšu informācijas lapu."
@@ -2606,6 +2609,7 @@ Generate,Ģenerēt
 "Select a shipping address from your address book or enter a new address.","Izvēlieties piegādes adresi no adrešu grāmatas, vai ievadiet jaunu adresi."
 "Created On",Izveidots
 Sender,Sūtītājs
+"Privacy Settings","Konfidencialitātes iestatījumi"
 Location,"Atrašanās vieta"
 "General Options","Vispārīgās Opcijas"
 "Default Template","Noklusētais šablons"
@@ -2934,6 +2938,7 @@ Ship,Piegādāt
 "Show Actual Values","Rādīt faktiskās vērtības"
 Value,Vērtība
 "Back to My Orders","Atpakaļ pie maniem pasūtījumiem"
+"You have placed no orders.","Jūs vēl neesat izveidojuši pasūtījumus."
 "Print Order # %1","Drukāt pasūtījumu # %1"
 """%1"" coupon code was not applied. Do not apply discount is selected for item(s)","atlaižu kods ""%1"" netika piemērots. Nevar piemērot atlaides izvēlētajai precei (ēm)"
 "Orders and Returns","Pasūtījumi un atgriešana"
