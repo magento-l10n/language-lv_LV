@@ -2393,6 +2393,8 @@ Newsletters,Jaunumi
 "Please enter your email address below to receive a password reset link.","Lūdzu, ievadiet savu e-pasta adresi, lai saņemtu e-pastu ar saiti uz paroles nomaiņas formu."
 "Reset My Password","Atjaunot paroli"
 "Registered Customers","Reģistrētiem klientiem"
+"Subscription option","Pierakstīšanās opcijas"
+"General Subscription","Noklusētais Abonoments"
 "Sign Up for Newsletter","Pieteikties jaunumu saņemšanai"
 "Confirm Password","Apstiprināt paroli"
 "Set a New Password","Izviedot jaunu paroli"
@@ -2590,6 +2592,8 @@ Redeemable,Atprečojams
 "Add Gift Card Account","Pievienot Dāvanu Kartes Kontu"
 "Order #%1.","Pasūtījums #%1."
 Generate,Ģenerēt
+"Enter gift card code","Ievadiet dāvanu kartes kodu"
+"Check status and balance","Pārbaudīt dāvanu kartes bilanci"
 "Unknown entity type","Nezināms ieraksta tips"
 "Gift Options","Dāvanas opcijas"
 "Do you have any gift items in your order?","Vai Jūsu pasūtījumā ir kāda dāvana?"
@@ -2734,7 +2738,7 @@ Cancelled,Atcelts
 "Enter your email address","Ievadi savu e-pasta adresi"
 Subscribe,Pierakstīties
 "Newsletter Section","Jaunumu sadaļa"
-"Subscription Options","Pierakstīšanās opcijas"
+"Subscription Options","Abonementa nosaukums"
 "Allow Guest Subscription","Atļaut viesu pierakstīšanos"
 "Need to Confirm","Nepieciešama apstiprināšana"
 "Confirmation Email Sender","Apstiprinājuma e-pasta sūtītājs"
