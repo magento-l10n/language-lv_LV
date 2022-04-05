@@ -1,9 +1,24 @@
 All,Visi
 None,Neviens
 "Allowed Scopes","Atļautie parametri"
+"More permissions are needed to delete the ""%1"" item.","Lai nodzēstu produktu ""%1"" nepieciešamas lielākas atļaujas."
 "You need more permissions to apply some of the rule updates.","Jums nepieciešamas papildus tiesības, lai apstiprinātu noteikumu izmaiņas."
+"More permissions are needed to view this item.","Nepieciešamas lielākas atļaujas lai apskatītu šo produktu."
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Uzņēmumu ir jāpievieno veikala skatam. Pārbaudiet vai uzņēmums ir pievienots un mēģiniet vēlreiz."
+"This item needs to be assigned to a store view.
+                Please select a website for this product in ""Product in Websites"".","Šo produktu ir jāpievieno veikala skatam.
+                Lūdzu izvēlieties lapu šim produktam iekš ""Produkti lapās""."
+"Orders can only be completed in an active store. Verify the store and try again.","Pasutījumus var veikt tikai aktīvā veikalā. Pārbaudiet veikalu un mēģiniet vēlreiz."
+"This item needs to be assigned to a store view. Assign item and try again.","Šo produktu ir jāpievieno veikala skatam. Pievienojiet un mēģiniet vēlreiz."
 "More permissions are needed to save this item.","Nepieciešamas lielākas atļaujas lai saglabātu šo produktu."
+"More permissions are needed to delete this item.","Nepieciešamas lielākas atļaujas lai nodzēstu šo produktu."
+"Not allowed to edit the category's design attributes","Mav atļaujas labot kategorijas dizaina atribūtu"
+"At least one website or store group needs to be selected. Select and try again.","Jāizvēlas vismaz viena mājas lapa vai veikalu grupa. Izvēlieties un mēģiniet vēlreiz."
+"More permissions are needed to set All Scopes to a Role.","Nepieciešamas lielākas piekļuves tiesības lai iestatītu Darbības jomu."
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","Lapai ""%1"" ir nepareizs ID. Pārbaudiet lapas ID un mēģiniet vēlreiz."
 "You need more permissions to access website ""%1"".","Jums nepieciešama atļauja lai piekļūtu lapai ""%1""."
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","Veikalam ""%1"" ir nepareizs ID. Pārbaudiet lapas ID un mēģiniet vēlreiz."
+"More permissions are needed to save this setting.","Nepieciešamas lielākas piekļuves tiesības lai saglabātu šo iestatījumu."
 "Role Scopes","Funkciju Parametri"
 Custom,Pielāgots
 "Read Details","Vairāk informācijas"
@@ -48,6 +63,7 @@ notice,paziņojums
 Close,Aizvērt
 "See All (","Skatīt visas ("
 " unread)"," nelasītās)"
+"System Messages","Sistēmas paziņojumi"
 "Show Toolbar","Rādīt rīkjoslu"
 "Show List","Rādīt sarakstu"
 "Use HTTPS to Get Feed","Lietojiet HTTPS lai lietotu plūsmu"
@@ -92,10 +108,18 @@ Configure,Konfigurēt
 "You must buy at least %1 of these per purchase.","Jums jāpērk vismaz %1 šādus produktus vienā pirkumā."
 "Specify the product's options.","Norādiet produkta opcijas."
 "Alert me when this item is available.","Pabrīdināt kad šis produkts ir pieejams."
+"This customer couldn't be found. Verify the customer and try again.","Nevar atrast šādu klientu. Pārbaudiet klientu un mēģiniet vēlreiz."
 "Shopping cart management is disabled for this customer.","Groza pārvalde šim klientam ir izslēgta."
+"This store couldn't be found. Verify the store and try again.","Nevar atrast šādu veikalu. Pārbaudiet un mēģiniet vēlreiz."
 Customers,Klienti
 "Shopping Cart",Grozs
+"An error occurred. For details, see the error log.","Kļūda. Vairāk informācijas log failos."
 "You do not have access to this.","Jums nav piekļuves tiesību."
+"The ordered item needs to be loaded. Load the item and try again.","Pasūtītā prece ir jāielādē. Ielādējiet preci un mēģiniet vēlreiz."
+"The quote item ID needs to be received. Set the ID and try again.","Ir jāsaņem pieprasītā produkta ID. Uzstādīet ID un mēģiniet vēlreiz."
+"The quote item needs to be loaded. Load the item and try again.","Pieprasītais produkts ir jāielādē. Ielādējiet produktu un mēģiniet vēlreiz."
+"The wish list item ID needs to be received. Set the ID and try again.","Ir jāsaņem vēlmju saraksta produkta ID. Uzstādie ID un mēģiniet vēlreiz."
+"The wish list item needs to be loaded. Load the item and try again.","Produkts no vēlmju saraksta ir jāielādē. Ielādējiet produktu un mēģiniet vēlreiz."
 "An error has occurred. See error log for details.","Kļūda. Vairāk informācijas kļūdu log failā."
 "You cannot configure a product.","Jūs nevarat konfigurēt produktu."
 "You removed the items.","Jūs nodzēsāt produktus."
@@ -126,6 +150,7 @@ Customers,Klienti
 "Yes, for Specified Customer Groups","Jā, norādītajām klientu grupām"
 "Yes, for Everyone","Jā, visiem"
 No,Nē
+"The file is corrupt and can't be used.","Fails ir bojāts un nelietojams."
 "Please upload the file in .csv format.","Augšupielādējiet failu .csv formātā."
 "%1 item(s) need your attention.","%1 produktam(iem) jāpievērš uzmanība."
 "Apply Coupon Code","Pielietot kupona kodu"
@@ -214,10 +239,17 @@ Yes,Jā
 "Error while checking if topic is synchronous","Kļūda pārbaudot vai temats ir sinhronizēts"
 "Subscription status","Pierakstīšanās statuss"
 "Sorry, there has been an error processing your request. Please try again later.","Atvainojiet, radās kļūda, apstrādājot jūsu pieprasījumu. Lūdzu, vēlāk mēģiniet vēlreiz."
+"The time value is using an unsupported format. Enter a supported format and try again.","Laika vērtības formāts nav atbalstīts. Ievadiet formātu kurš tiek atbalstīts un mēģiniet vēlreiz."
 "Cron settings can't be saved","Cron iestatījumus nevar saglabāt"
 "There was an error save new configuration value.","Radās kļūda, saglabāt jaunu konfigurācijas vērtību."
 "Please select an industry.","Izvēlieties industriju."
 "--Please Select--","--Lūdzu izvēlieties--"
+"Command ""%1"" was not found.","Komanda ""%1"" nav atrasta."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Dati ir nederīgi. Ievadiet datus kā saiti vai datus kurus var pārvērst par saikni un mēģiniet vēlreiz."
+"The data is invalid. Enter the data as a string and try again.","Dati ir nederīgi. Ievadiet datus kā saiti un mēģiniet vēlreiz."
+"The data is invalid. Use a valid cipher method and try again.","Dati ir nederīgi. Izmantojiet derīgu šifrēšanas metodi un mēģiniet vēlreiz."
+"Enter the encryption key and try again.","Ievadiet šifrēšanas atslēgu un mēģiniet vēlreiz."
+"The ""%1"" source doesn't exist.","Avots ""%1"" neeksistē."
 "These arguments can't be empty ""%1""","Šie argumenti nevar būt tukši ""%1"""
 "Cannot find predefined integration user!","Nevar atrast definētu integrācijas lietotāju!"
 "File is not ready yet.","Fails vēl nav gatavs."
@@ -232,11 +264,24 @@ Yes,Jā
 "Go to Advanced Reporting","Iet uz Paplašinātajām atskaitēm"
 Analytics,Analītika
 Configuration,Konfigurācija
+"This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","Serviss piedāvā dinamisku atskaišu pārvaldību par Jūsu biznesu.
+                Atskaites ir pieejamas drošā, personalizētā panelī ārpus administrācijas paneļa nospiežot
+                ""Iet uz Paplašinātajām Atskaitēm"" saiti. </br> Papildus informācijai, skatiet mūsu <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                noteikumus un nosacījumus</a>."
 "Advanced Reporting Service","Paplašinātu Atskaišu serviss"
 "Time of day to send data","Laiks kurā sūtīt datus"
+"Industry Data","Nozares Dati"
 Industry,Industrija
 "In order to personalize your Advanced Reporting experience, please select your industry.","Lai personalizētu Paplašinātās atskaites, izvēlaties atbilstošu industriju."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Vairāk informācijas no Magento Business Intelligence</strong>"
+"Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence ļauj vienkāršā un saprotamā veidā
+                    strādāt ar datiem.</br> Uzziniet vairāk par <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials un BI Pro</a> līmeņiem."
 "Auto Parts","Auto daļas"
 "Baby/Children’s Apparel, Gear and Toys","Bērnu apģērbs, rotaļlietas"
 "Beauty and Cosmetics","Skaistums un kosmētika"
@@ -255,11 +300,17 @@ Industry,Industrija
 "Pet Goods","Dzīvnieku preces"
 "Pharma and Medical Devices","Medicīnas preces"
 "Technology B2B","Tehnoloģijas B2B"
+Other,Cits
 Done,Gatavs
 Retry,"Mēģināt vēlreiz"
 "'Action Details - #' .","'Darbības informācija - #' ."
 "%1 item(s) have been scheduled for update.""","%1 produkts(i) apstiprināti atjaunināšanai."""
 "Bulk Actions Log","Vairāku darbību žurnāls"
+"Bulk uuid %bulkUuid not exist","Vairāki uuid %bulkUuid neeksistē"
+"Topic %1","Temats %1"
+"Something went wrong while processing the request.","Kļūda apstrādājot pieprasījumu."
+"Error processing %key element of input data","Kļūda apstrādājot ievades datu %key elementu"
+"Sorry, something went wrong during product prices update. Please see log for details.","Atvainojamies, kļūda atjaunojot preču cenas. Skatiet žurnālu lai iegūtu vairāk informācijas."
 "%1 item(s) are currently being updated.","Pašlaik tiek atjaunināta(s) %1 prece (s)."
 "Task ""%1"": ","Uzdevums ""%1"": "
 "%1 item(s) have been scheduled for update.","%1 produkts(i) apstiprināti atjaunināšanai."
@@ -272,9 +323,12 @@ Dismiss,Atcelt
 "%1 items selected for mass update","%1 produkti atlasīti masveida atjaunināšana"
 ", %1 successfully updated",", %1 veiksmīgi atjaunināts"
 ", %1 failed to update",", %1 neizdevās atjaunināt"
+"System Messages","Sistēmas Paziņojumi"
 "Something went wrong.","Kaut kas nogāja greizi."
 "Action Log","Darbību žurnāls"
+Report,Pārskats
 "Bulk Actions","Vairākas darbības"
+"Action Logs","Darbību žurnāli"
 "Days Saved in Log","Žurnālā saglabātās dienas"
 "Description of Operation","Darbības apraksts"
 Summary,Kopsavilkums
@@ -288,6 +342,7 @@ Error,Kļūda
 "Dismiss All Completed Tasks","Atcelt Visus Pabeigtos Uzdevumus"
 "Action Details - #","Darbības informācija - #"
 "Number of Records Affected","Apstrādāto ierakstu skaits"
+"The role wasn't found for the user. Verify the role and try again.","Lietotājam nav piešķirtas funkcijas. Pārbaudiet lietotāja lomu un mēģiniet vēlreiz."
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Notikusi kļūda kompilējot atļauto resursu sarakstu. Vairāk informācijas noraidījumu log failā."
 "You created the order.","Jūs izveidojāt pasūtījumu."
 "Order saving error: %1","Kļūda saglabājot pasūtījumu: %1"
@@ -378,7 +433,22 @@ Environment,Vide
 options,opcijas
 "Select all","Atlasīt visu"
 "Deselect all","Atcelt visu atlasi"
+Selected,Izvēlētie
+"We couldn't find any records.","Nevar atrast nevienu ierakstu."
+" Item(s)"," Produkts(i)"
+"Items ","Produkti "
+" to "," līdz "
+" of "," no "
+" total"," kopā"
+Page,Lapa
+Previous,Iepriekšējais
+"You're currently reading page","Jūs pašlaik lasāt lapu"
+Next,Nākošais
+Show,Rādīt
+"per page",lapā
 "%s of %s selected","Atlasīti %s no %s"
+"Search by keyword","Meklēt pēc atslēgvārdiem"
+"This is a required field.","Šis ir obligāts lauks."
 "B2B Features","B2B funkcijas"
 "Invalid Form Key. Please refresh the page.","Nepareiza Formas atslēga. Atjaunojiet lapu."
 "You entered an invalid Secret Key. Please refresh the page.","Jūs ievadījāt nepareizu Slepeno atslēgu. Atjaunojiet lapu."
@@ -496,7 +566,6 @@ To,Kam
 "[ deleted ]","[ dzēsts ]"
 "Select All","Izvēlēties visu"
 " [deleted]"," [dzēsts]"
-"We couldn't find any records.","Nevar atrast nevienu ierakstu."
 "Add New","Pievienot jaunu"
 "Invalid export type supplied for grid export block","Nepareizs eksporta veids režģa eksporta blokam"
 Export,Eksportēt
@@ -602,8 +671,6 @@ password,parole
 "Sign Out",Izrakstīties
 "About the calendar","Par kalendāru"
 "Go Today",Šodien
-Previous,Iepriekšējais
-Next,Nākošais
 Time,Laiks
 Hour,Stunda
 Minute,Minūte
@@ -628,7 +695,6 @@ Thumbnail,Sīktēls
 "Additional Settings","Papildu iestatījumi"
 "records found","atrasti ieraksti"
 selected,atlasīti
-"per page",lapā
 "Previous page","Iepriekšējā lapa"
 "of %1","no %1"
 "Next page","Nākošā lapa"
@@ -1423,7 +1489,6 @@ Categories,Kategorijas
 "Please select products for attributes update.","Izvēlieties produktus atribūtu atjaunināšanai."
 "Please make sure to define SKU values for all processed products.","Pārliecinieties ka nodefinējāt artikulus visiem procesētajiem produktiem."
 "Something went wrong while updating the product(s) attributes.","Kļūda atjaunojot produktu atribūtus."
-"Something went wrong while processing the request.","Kļūda apstrādājot pieprasījumu."
 "Unable to add attribute","Nevar pievienot atribūtu"
 "Manage Product Attributes","Pārvaldīt produktu atribūtus"
 "We can't delete the attribute.","Nevar nodzēst atribūtu."
@@ -1730,7 +1795,6 @@ Prev,Iepr
 "Items %1-%2 of %3","Produkti %1-%2 no %3"
 "%1 Item","%1 produkts"
 "%1 Items","%1 Produkti"
-Show,Rādīt
 "Sort By","Kārtot pēc"
 "Set Ascending Direction","Iestatīt augošā secībā"
 "Set Descending Direction","Iestatīt dilstošā secībā"
@@ -2156,6 +2220,7 @@ Update,Atjaunināt
 Login,Lietotājvārds
 "Items in Cart","Preces grozā"
 "Item in Cart","Prece grozā"
+"Recently added item(s)","Nesen pievienotie produkti(s)"
 "View and Edit Cart","Skatīt un labot pirkuma grozu"
 "See Details","Sīkāka informācija"
 "Options Details","Opciju detaļas"
@@ -2274,7 +2339,6 @@ Updated,Atjaunināts
 Purchased,Nopirkts
 "Store Credit","Veikala Kredīts"
 "Order # %1","Pasūtījums # %1"
-"This is a required field.","Šis ir obligāts lauks."
 Rate,Likme
 Date,Datums
 "Default Config","Noklusējuma Konfigurācija"
@@ -2607,6 +2671,7 @@ Generate,Ģenerēt
 "Please enter a valid email address.","Ievadiet derīgu e-pasta adresi."
 "This product(s) is out of stock.","Produkts(i) nav pieejams."
 "An item option with code %1 already exists.","Produkta opcija ar kodu %1 jau eksistē."
+New,Jauns
 "Please enter the first name.","Lūdzu, ievadiet vārdu."
 "Please enter the last name.","Lūdzu, ievadiet uzvārdu."
 "Is Required","Ir obligāts"
@@ -3097,6 +3162,7 @@ State,Štats
 "Grand Total (Excl.Tax)","Kopsumma (Bez PVN)"
 "Grand Total (Incl.Tax)","Kopsumma (Ar PVN)"
 "Tax Zones and Rates","Nodokļu zonas un likmes"
+Note:,Piezīmes:
 "Import and Export Tax Rates","Importēt vai eksportēt nodokļu likmes"
 "The tax rate has been imported.","Nodokļu likme tika importēta."
 "Invalid file upload attempt","Nepareiza faila augšupielādēšanas mēģinājums"
@@ -3117,7 +3183,6 @@ Themes,Tēmas
 "Create Folder","Izveidot direktoriju"
 "Insert File","Ievietot failu"
 "%1 Item(s)","%1 Produkts(i)"
-Page,Lapa
 Menu,Izvēlne
 Account,Konts
 "TinyMCE 3 (deprecated)","TinyMCE 3 (novecojušais)"
@@ -3133,7 +3198,6 @@ Translations,Tulkojumi
 "Add New %1","Pievienot jaunu %1"
 "New %1","Jaunu %1"
 Filters,Filtri
-Selected,Izvēlētie
 "New View","Jauns skats"
 "Default View","Noklusējuma skats"
 Keyword,Atslēgvārds
@@ -3421,13 +3485,27 @@ Captured,Saņemts
 "Update to your %store_name shipment","Piegādes atjauninājumi no %store_name"
 "Backup options","Rezerves kopijas opcijas"
 Warning,Brīdinājums
+"Insert Variable","Ievadīt Mainīgo"
+"Insert Widget","Ievietot Logrīku"
+"The widget %1 is no longer available. Select a different widget.","Logrīks %1 vairs nav pieejams. Izvēlieties citu logrīku."
 "Recent items","Nesen pievienotie produkti"
 "Show all...","Parādīt visus..."
+"Please enter a number greater 0 in this field.","Lūdzu, ievadiet skailti lielāku par 0."
+"Please select one of each ratings above.","Lūdzu, izvēlieties vienu no augstāk minētajiem vērtējumiem."
 "Please specify Url.","Lūdzu, norādiet URL."
 "Method %s does not exist on jQuery.decorate","jQuery.decorate metode %s neeksistē"
 "Please wait...","Lūdzu, uzgaidiet..."
 "All %1","Visi %1"
 Translate,Tulkot
+"Please enter {0} words or less.","Lūdzu, ievadiet {0} vai mazāk vārdus."
+"Please enter at least {0} words.","Lūdzu, ievadiet vismaz {0} vārdus."
+"Please enter between {0} and {1} words.","Lūdzu, ievadiet no {0} līdz {1} vārdus."
+"Letters or punctuation only please","Lūdzu, tikai burtus vai pieturzīmes"
+"Letters, numbers, spaces or underscores only please","Lūdzu, tikai burtus, ciparus, atstarpes vai apakšsvītras"
+"Letters only please","Lūdzu, tikai burtus"
+"No white space please","Lūdzu, bez atstarpēm"
+"No marginal white space please","Lūdzu, bez marginālām atstarpēm"
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Jūsu Pasta Indeksa kodam ir jābūt robežās no 902xx-xxxx līdz 905-xx-xxxx"
 "Please enter a valid date.","Lūdzu, ievadiet derīgu datumu."
 "Please select a file.","Izvēlieties failu."
 "Please enter a value less than or equal to %s.","Lūdzu, ievadiet vērtību, kas ir mazāka vai vienāda ar %s."
