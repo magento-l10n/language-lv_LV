@@ -1,26 +1,22 @@
 All,Visi
 None,Neviens
 "Allowed Scopes","Atļautie parametri"
-"More permissions are needed to delete the ""%1"" item.","Lai nodzēstu produktu ""%1"" nepieciešamas lielākas atļaujas."
 "You need more permissions to apply some of the rule updates.","Jums nepieciešamas papildus tiesības, lai apstiprinātu noteikumu izmaiņas."
-"More permissions are needed to view this item.","Nepieciešamas lielākas atļaujas lai apskatītu šo produktu."
+"You need more permissions to access website ""%1"".","Jums nepieciešama atļauja lai piekļūtu lapai ""%1""."
+"Role Scopes","Funkciju Parametri"
+Custom,Pielāgots
+"More permissions are needed to delete the ""%1"" item.","Lai nodzēstu produktu ""%1"" nepieciešamas lielākas atļaujas."
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Uzņēmumu ir jāpievieno veikala skatam. Pārbaudiet vai uzņēmums ir pievienots un mēģiniet vēlreiz."
-"This item needs to be assigned to a store view.
-                Please select a website for this product in ""Product in Websites"".","Šo produktu ir jāpievieno veikala skatam.
-                Lūdzu izvēlieties lapu šim produktam iekš ""Produkti lapās""."
 "Orders can only be completed in an active store. Verify the store and try again.","Pasutījumus var veikt tikai aktīvā veikalā. Pārbaudiet veikalu un mēģiniet vēlreiz."
 "This item needs to be assigned to a store view. Assign item and try again.","Šo produktu ir jāpievieno veikala skatam. Pievienojiet un mēģiniet vēlreiz."
 "More permissions are needed to save this item.","Nepieciešamas lielākas atļaujas lai saglabātu šo produktu."
 "More permissions are needed to delete this item.","Nepieciešamas lielākas atļaujas lai nodzēstu šo produktu."
-"Not allowed to edit the category's design attributes","Mav atļaujas labot kategorijas dizaina atribūtu"
+"More permissions are needed to view this item.","Nepieciešamas lielākas atļaujas lai apskatītu šo produktu."
 "At least one website or store group needs to be selected. Select and try again.","Jāizvēlas vismaz viena mājas lapa vai veikalu grupa. Izvēlieties un mēģiniet vēlreiz."
 "More permissions are needed to set All Scopes to a Role.","Nepieciešamas lielākas piekļuves tiesības lai iestatītu Darbības jomu."
 "The ""%1"" website ID is incorrect. Verify the website ID and try again.","Lapai ""%1"" ir nepareizs ID. Pārbaudiet lapas ID un mēģiniet vēlreiz."
-"You need more permissions to access website ""%1"".","Jums nepieciešama atļauja lai piekļūtu lapai ""%1""."
 "The ""%1"" store ID is incorrect. Verify the store ID and try again.","Veikalam ""%1"" ir nepareizs ID. Pārbaudiet lapas ID un mēģiniet vēlreiz."
 "More permissions are needed to save this setting.","Nepieciešamas lielākas piekļuves tiesības lai saglabātu šo iestatījumu."
-"Role Scopes","Funkciju Parametri"
-Custom,Pielāgots
 "Read Details","Vairāk informācijas"
 "Mark as Read","Atzīmēt kā izlasītu"
 "Are you sure?","Vai esat pārliecināts?"
@@ -38,7 +34,6 @@ Notifications,Paziņojumi
 "Total of %1 record(s) have been removed.","Pavisam nodzēstas %1 ziņa(s)."
 "We couldn't remove the messages because of an error.","Nevar nodzēst ziņu kļūdas dēļ."
 "The message has been removed.","Ziņa ir nodzēsta."
-"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Jūs apskatījāt un atrisinājātvisus sistēmas paziņojumus. Atjauninjiet lapu lai nodzēstu paziņojumu."
 "1 Hour","1 stunda"
 "2 Hours","2 stundas"
 "6 Hours","6 stundas"
@@ -63,7 +58,6 @@ notice,paziņojums
 Close,Aizvērt
 "See All (","Skatīt visas ("
 " unread)"," nelasītās)"
-"System Messages","Sistēmas paziņojumi"
 "Show Toolbar","Rādīt rīkjoslu"
 "Show List","Rādīt sarakstu"
 "Use HTTPS to Get Feed","Lietojiet HTTPS lai lietotu plūsmu"
@@ -73,6 +67,7 @@ Severity,Nozīmīgums
 "Date Added","Pievienošanas datums"
 Message,Ziņa
 Actions,Darbības
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Jūs apskatījāt un atrisinājātvisus sistēmas paziņojumus. Atjauninjiet lapu lai nodzēstu paziņojumu."
 "Manage Shopping Cart","Pārvaldīt grozu"
 "Create Order","Izveidot pasūtījumu"
 Back,Atpakaļ
@@ -108,18 +103,10 @@ Configure,Konfigurēt
 "You must buy at least %1 of these per purchase.","Jums jāpērk vismaz %1 šādus produktus vienā pirkumā."
 "Specify the product's options.","Norādiet produkta opcijas."
 "Alert me when this item is available.","Pabrīdināt kad šis produkts ir pieejams."
-"This customer couldn't be found. Verify the customer and try again.","Nevar atrast šādu klientu. Pārbaudiet klientu un mēģiniet vēlreiz."
 "Shopping cart management is disabled for this customer.","Groza pārvalde šim klientam ir izslēgta."
-"This store couldn't be found. Verify the store and try again.","Nevar atrast šādu veikalu. Pārbaudiet un mēģiniet vēlreiz."
 Customers,Klienti
 "Shopping Cart",Grozs
-"An error occurred. For details, see the error log.","Kļūda. Vairāk informācijas log failos."
 "You do not have access to this.","Jums nav piekļuves tiesību."
-"The ordered item needs to be loaded. Load the item and try again.","Pasūtītā prece ir jāielādē. Ielādējiet preci un mēģiniet vēlreiz."
-"The quote item ID needs to be received. Set the ID and try again.","Ir jāsaņem pieprasītā produkta ID. Uzstādīet ID un mēģiniet vēlreiz."
-"The quote item needs to be loaded. Load the item and try again.","Pieprasītais produkts ir jāielādē. Ielādējiet produktu un mēģiniet vēlreiz."
-"The wish list item ID needs to be received. Set the ID and try again.","Ir jāsaņem vēlmju saraksta produkta ID. Uzstādie ID un mēģiniet vēlreiz."
-"The wish list item needs to be loaded. Load the item and try again.","Produkts no vēlmju saraksta ir jāielādē. Ielādējiet produktu un mēģiniet vēlreiz."
 "An error has occurred. See error log for details.","Kļūda. Vairāk informācijas kļūdu log failā."
 "You cannot configure a product.","Jūs nevarat konfigurēt produktu."
 "You removed the items.","Jūs nodzēsāt produktus."
@@ -150,7 +137,6 @@ Customers,Klienti
 "Yes, for Specified Customer Groups","Jā, norādītajām klientu grupām"
 "Yes, for Everyone","Jā, visiem"
 No,Nē
-"The file is corrupt and can't be used.","Fails ir bojāts un nelietojams."
 "Please upload the file in .csv format.","Augšupielādējiet failu .csv formātā."
 "%1 item(s) need your attention.","%1 produktam(iem) jāpievērš uzmanība."
 "Apply Coupon Code","Pielietot kupona kodu"
@@ -205,6 +191,15 @@ File,Fails
 "The text of the link to the My Account &gt; Order by SKU page","Teksts saitei uz Mans konts &gt; Šķirot pēc artikula lapu"
 "Load a list of SKUs","Ielādēt artikulu sarakstu"
 "Order by SKU Template","Škirot pēc artikulu šablona"
+"This customer couldn't be found. Verify the customer and try again.","Nevar atrast šādu klientu. Pārbaudiet klientu un mēģiniet vēlreiz."
+"This store couldn't be found. Verify the store and try again.","Nevar atrast šādu veikalu. Pārbaudiet un mēģiniet vēlreiz."
+"An error occurred. For details, see the error log.","Kļūda. Vairāk informācijas log failos."
+"The ordered item needs to be loaded. Load the item and try again.","Pasūtītā prece ir jāielādē. Ielādējiet preci un mēģiniet vēlreiz."
+"The quote item ID needs to be received. Set the ID and try again.","Ir jāsaņem pieprasītā produkta ID. Uzstādīet ID un mēģiniet vēlreiz."
+"The quote item needs to be loaded. Load the item and try again.","Pieprasītais produkts ir jāielādē. Ielādējiet produktu un mēģiniet vēlreiz."
+"The wish list item ID needs to be received. Set the ID and try again.","Ir jāsaņem vēlmju saraksta produkta ID. Uzstādie ID un mēģiniet vēlreiz."
+"The wish list item needs to be loaded. Load the item and try again.","Produkts no vēlmju saraksta ir jāielādē. Ielādējiet produktu un mēģiniet vēlreiz."
+"The file is corrupt and can't be used.","Fails ir bojāts un nelietojams."
 "Please correct the data sent.","Izlabojiet nosūtītos datus."
 "Entity type model '%1' is not found","Produkta veida modelis '%1' nav atrasts"
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Produkta veida modelim jābūt piemēram
@@ -239,23 +234,14 @@ Yes,Jā
 "Error while checking if topic is synchronous","Kļūda pārbaudot vai temats ir sinhronizēts"
 "Subscription status","Pierakstīšanās statuss"
 "Sorry, there has been an error processing your request. Please try again later.","Atvainojiet, radās kļūda, apstrādājot jūsu pieprasījumu. Lūdzu, vēlāk mēģiniet vēlreiz."
-"The time value is using an unsupported format. Enter a supported format and try again.","Laika vērtības formāts nav atbalstīts. Ievadiet formātu kurš tiek atbalstīts un mēģiniet vēlreiz."
 "Cron settings can't be saved","Cron iestatījumus nevar saglabāt"
 "There was an error save new configuration value.","Radās kļūda, saglabāt jaunu konfigurācijas vērtību."
-"Please select an industry.","Izvēlieties industriju."
 "--Please Select--","--Lūdzu izvēlieties--"
-"Command ""%1"" was not found.","Komanda ""%1"" nav atrasta."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Dati ir nederīgi. Ievadiet datus kā saiti vai datus kurus var pārvērst par saikni un mēģiniet vēlreiz."
-"The data is invalid. Enter the data as a string and try again.","Dati ir nederīgi. Ievadiet datus kā saiti un mēģiniet vēlreiz."
-"The data is invalid. Use a valid cipher method and try again.","Dati ir nederīgi. Izmantojiet derīgu šifrēšanas metodi un mēģiniet vēlreiz."
-"Enter the encryption key and try again.","Ievadiet šifrēšanas atslēgu un mēģiniet vēlreiz."
-"The ""%1"" source doesn't exist.","Avots ""%1"" neeksistē."
 "These arguments can't be empty ""%1""","Šie argumenti nevar būt tukši ""%1"""
 "Cannot find predefined integration user!","Nevar atrast definētu integrācijas lietotāju!"
 "File is not ready yet.","Fails vēl nav gatavs."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Pamata URL ir mainīta, un atskaites tiek atjauninātas. Papildu Atskaites būs pieejamas tiklīdz šī izmaiņas būs apstrādātas. Lūdzu, vēlāk mēģiniet vēlreiz."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Neizdevās sinhronizēt datus ar Magento Business Intelligence pakalpojumu. "
-"Retry Synchronization","Vēlreiz mēģināt sinhronizēšanu"
 "Apps and Games","Aplikācijas un spēles"
 "Athletic/Sporting Goods","Sporta preces"
 "Art and Design","Māksla un dizains"
@@ -264,16 +250,8 @@ Yes,Jā
 "Go to Advanced Reporting","Iet uz Paplašinātajām atskaitēm"
 Analytics,Analītika
 Configuration,Konfigurācija
-"This service provides a dynamic suite of reports with rich insights about your business.
-                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","Serviss piedāvā dinamisku atskaišu pārvaldību par Jūsu biznesu.
-                Atskaites ir pieejamas drošā, personalizētā panelī ārpus administrācijas paneļa nospiežot
-                ""Iet uz Paplašinātajām Atskaitēm"" saiti. </br> Papildus informācijai, skatiet mūsu <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                noteikumus un nosacījumus</a>."
 "Advanced Reporting Service","Paplašinātu Atskaišu serviss"
 "Time of day to send data","Laiks kurā sūtīt datus"
-"Industry Data","Nozares Dati"
 Industry,Industrija
 "In order to personalize your Advanced Reporting experience, please select your industry.","Lai personalizētu Paplašinātās atskaites, izvēlaties atbilstošu industriju."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Vairāk informācijas no Magento Business Intelligence</strong>"
@@ -301,6 +279,14 @@ Industry,Industrija
 "Pharma and Medical Devices","Medicīnas preces"
 "Technology B2B","Tehnoloģijas B2B"
 Other,Cits
+"The time value is using an unsupported format. Enter a supported format and try again.","Laika vērtības formāts nav atbalstīts. Ievadiet formātu kurš tiek atbalstīts un mēģiniet vēlreiz."
+"Please select an industry.","Izvēlieties industriju."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Dati ir nederīgi. Ievadiet datus kā saiti vai datus kurus var pārvērst par saikni un mēģiniet vēlreiz."
+"The data is invalid. Enter the data as a string and try again.","Dati ir nederīgi. Ievadiet datus kā saiti un mēģiniet vēlreiz."
+"The data is invalid. Use a valid cipher method and try again.","Dati ir nederīgi. Izmantojiet derīgu šifrēšanas metodi un mēģiniet vēlreiz."
+"Enter the encryption key and try again.","Ievadiet šifrēšanas atslēgu un mēģiniet vēlreiz."
+"The ""%1"" source doesn't exist.","Avots ""%1"" neeksistē."
+"Retry Synchronization","Vēlreiz mēģināt sinhronizēšanu"
 Done,Gatavs
 Retry,"Mēģināt vēlreiz"
 "'Action Details - #' .","'Darbības informācija - #' ."
@@ -323,7 +309,6 @@ Dismiss,Atcelt
 "%1 items selected for mass update","%1 produkti atlasīti masveida atjaunināšana"
 ", %1 successfully updated",", %1 veiksmīgi atjaunināts"
 ", %1 failed to update",", %1 neizdevās atjaunināt"
-"System Messages","Sistēmas Paziņojumi"
 "Something went wrong.","Kaut kas nogāja greizi."
 "Action Log","Darbību žurnāls"
 Report,Pārskats
@@ -342,8 +327,8 @@ Error,Kļūda
 "Dismiss All Completed Tasks","Atcelt Visus Pabeigtos Uzdevumus"
 "Action Details - #","Darbības informācija - #"
 "Number of Records Affected","Apstrādāto ierakstu skaits"
-"The role wasn't found for the user. Verify the role and try again.","Lietotājam nav piešķirtas funkcijas. Pārbaudiet lietotāja lomu un mēģiniet vēlreiz."
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Notikusi kļūda kompilējot atļauto resursu sarakstu. Vairāk informācijas noraidījumu log failā."
+"The role wasn't found for the user. Verify the role and try again.","Lietotājam nav piešķirtas funkcijas. Pārbaudiet lietotāja lomu un mēģiniet vēlreiz."
 "You created the order.","Jūs izveidojāt pasūtījumu."
 "Order saving error: %1","Kļūda saglabājot pasūtījumu: %1"
 "Please choose a payment method.","Izvēlieties maksāšanas veidu."
@@ -433,22 +418,7 @@ Environment,Vide
 options,opcijas
 "Select all","Atlasīt visu"
 "Deselect all","Atcelt visu atlasi"
-Selected,Izvēlētie
-"We couldn't find any records.","Nevar atrast nevienu ierakstu."
-" Item(s)"," Produkts(i)"
-"Items ","Produkti "
-" to "," līdz "
-" of "," no "
-" total"," kopā"
-Page,Lapa
-Previous,Iepriekšējais
-"You're currently reading page","Jūs pašlaik lasāt lapu"
-Next,Nākošais
-Show,Rādīt
-"per page",lapā
 "%s of %s selected","Atlasīti %s no %s"
-"Search by keyword","Meklēt pēc atslēgvārdiem"
-"This is a required field.","Šis ir obligāts lauks."
 "B2B Features","B2B funkcijas"
 "Invalid Form Key. Please refresh the page.","Nepareiza Formas atslēga. Atjaunojiet lapu."
 "You entered an invalid Secret Key. Please refresh the page.","Jūs ievadījāt nepareizu Slepeno atslēgu. Atjaunojiet lapu."
@@ -566,6 +536,7 @@ To,Kam
 "[ deleted ]","[ dzēsts ]"
 "Select All","Izvēlēties visu"
 " [deleted]"," [dzēsts]"
+"We couldn't find any records.","Nevar atrast nevienu ierakstu."
 "Add New","Pievienot jaunu"
 "Invalid export type supplied for grid export block","Nepareizs eksporta veids režģa eksporta blokam"
 Export,Eksportēt
@@ -636,10 +607,10 @@ System,Sistēma
 "An inactive store view cannot be saved as default store view","Neaktīva veikala skatu nevar saglabāt kā noklusēto"
 "You saved the store.","Veikals ir saglabāts."
 "Something went wrong while saving. Please review the error log.","Kļūda saglabājot. Pārbaudiet kļūdu log failu."
-"Authentication storage is incorrect.","Nepareiza autentifikācijas glabātuve."
 "Last 24 Hours","Pēdējās 24 stundas"
 "Last 7 Days","Pēdējās 7 dienas"
 "Current Month","Tekošais mēnesis"
+"Authentication storage is incorrect.","Nepareiza autentifikācijas glabātuve."
 Order,Pasūtījums
 "Order #%1","Pasūtījums #%1"
 "Sorry, you need permissions to view this content.","Atvainojiet, Jums nepieciešamas papildu atļaujas lai skatītu šo saturu."
@@ -653,9 +624,9 @@ Username,Lietotājvārds
 Password,Parole
 password,parole
 "Sign in",Pieslēgties
+"Select Range:","Atlasīt diapazonu:"
 "No Data Found","Nav datu"
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Grafiks ir izslēgts. Lai ieslēgtu grafiku, nospiediet <a href=""%1""> šeit</a>."
-"Select Range:","Atlasīt diapazonu:"
 "Last Orders","Pēdējie pasūtījumi"
 "Last Search Terms","Pēdējie meklēšanas termini"
 "Top Search Terms","Populārākie meklēšanas termini"
@@ -671,6 +642,8 @@ password,parole
 "Sign Out",Izrakstīties
 "About the calendar","Par kalendāru"
 "Go Today",Šodien
+Previous,Iepriekšējais
+Next,Nākošais
 Time,Laiks
 Hour,Stunda
 Minute,Minūte
@@ -679,6 +652,7 @@ Minute,Minūte
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","Šis ir demo veikals. Jūs varat pārlūkot, veidot pasūtījumus, bet tie netiks apstrādāti."
 "Report an Issue","Ziņot par problēmu"
 "Stores Configuration","Veikalu konfigurācija"
+"Please confirm scope switching. All data that hasn't been saved will be lost.","Apstipriniet loka pārslēgšanu. Nesaglabātā informācija tiks zaudēta."
 "Additional Cache Management","Papildus keša menedžments"
 "Flush Catalog Images Cache","Iztīrīt kataloga attēlu kešu"
 "Pregenerated product images files","Iepriekš ģenerēti produktu attēlu faili"
@@ -695,6 +669,7 @@ Thumbnail,Sīktēls
 "Additional Settings","Papildu iestatījumi"
 "records found","atrasti ieraksti"
 selected,atlasīti
+"per page",lapā
 "Previous page","Iepriekšējā lapa"
 "of %1","no %1"
 "Next page","Nākošā lapa"
@@ -707,9 +682,7 @@ selected,atlasīti
 "This tab contains invalid data. Please resolve this before saving.","Tabs satur nepareizu informāciju. Atrisiniet pirms saglabāšanas."
 "The information in this tab has been changed.","Informācija šajā cilnē tika mainīta."
 Loading...,"Notiek ielāde..."
-"User Agent Rules","Lietot pārlūka aģenta noteikumus"
 "We could not detect a size.","Nevar noteikt lielumu."
-"Please confirm scope switching. All data that hasn't been saved will be lost.","Apstipriniet loka pārslēgšanu. Nesaglabātā informācija tiks zaudēta."
 "Allow everything","Atļaut visu"
 "Global Search","Globālā meklēšana"
 Marketing,Mārketings
@@ -788,7 +761,6 @@ Host,Hosts
 "Port (25)","Ports (25)"
 "Set Return-Path","Iestatīt atbildes ceļu"
 "Return-Path Email","Atbildes e-pasts"
-"Enable Frontend Resize","Ieslēgt lapas priekšas izmēra mainīšanu"
 Admin,Administrators
 "Admin User Emails","Administrācijas lietotāja e-pasts"
 "Forgot Password Email Template","Aizmirstas paroles e-pasta šablons"
@@ -847,9 +819,9 @@ Tags,Tagi
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 Kļūda</h1><p>Lapa nav atrasta.</p>"
 "Community Edition","Komūnas vercija"
 "Default Theme","Noklusētā tēma"
-"If no value is specified, the system default is used. The system default may be modified by third-party extensions.","Ja nav norādīta vērtība tiek izmantota nosistēmas noklusētā. Sistēmas noklusēto vērtību var mainīt papildu paplašinājumi."
 "Applied Theme","Apstiprinātā Tēma"
 "Design Rule","Dizaina noteikumi"
+"User Agent Rules","Lietot pārlūka aģenta noteikumus"
 Pagination,Lapas
 "How many links to display at once.","Cik daudz saites uzreiz parādīt."
 "Pagination Frame","Lapu freims"
@@ -860,6 +832,8 @@ Pagination,Lapas
 "Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Alternatīvs teksts nākošo lapu izvēlnes saitei lapu izvēlnē. Ja atstāts tukšs, pēc noklusējuma tiks izmantota bulta."
 "Anchor Text for Next","Enkura teksts nākošajam"
 "Theme Name","Tēmas nosaukums"
+"If no value is specified, the system default is used. The system default may be modified by third-party extensions.","Ja nav norādīta vērtība tiek izmantota nosistēmas noklusētā. Sistēmas noklusēto vērtību var mainīt papildu paplašinājumi."
+"Enable Frontend Resize","Ieslēgt lapas priekšas izmēra mainīšanu"
 "System Backup","Sistēmas rezerves kopija"
 "Database and Media Backup","Datu bāzes un multimēdijas rezerves kopija"
 "Database Backup","Datu bāzes rezerves kopija"
@@ -928,47 +902,23 @@ Frequency,Biežums
 Size(bytes),Lielums(bytes)
 Type,Veids
 Download,Lejupielādēt
-"Dynamic Blocks","Dinamiskie bloki"
-"Add Dynamic Block","Pievienot dinamisko bloku"
-"Save Dynamic Block","Saglabāt dinamisko bloku"
-"Delete Dynamic Block","Dzēst dinamisko bloku"
 "Save and Continue Edit","Saglabāt un turpināt labot"
-"New Dynamic Block","Jauns dinamiskais bloks"
 "Default Content","Noklusētais saturs"
 "No Default Content","Nav noklusētā satura"
-"Dynamic Block Default Content for All Store Views","Dinamiskā bloka noklusētais saturs visiem Veikala skatiem"
 "Store View Specific Content","Veikala skatam specifisks saturs"
 "Use Default","Lietot noklusēto"
 "Related Promotions","Saistītās akcijas"
 Rule,Noteikums
 "Start Date","Sākuma datums"
 "End Date","Beigu datums"
-"Dynamic Block Properties","Dinamiskā bloka opcijas"
-"Dynamic Block Name","Dinamiskā bloka nosaukums"
 Active,Aktīvs
 Inactive,Neaktīvs
 "Applies To","Attiecas uz"
-"Any Dynamic Block Type","Pievienot dinamiskā bloka veidu"
-"Specified Dynamic Block Types","Specifiski Dinamisko bloku veidi"
 "Specify Types","Norādīt veidus"
-"Dynamic Block Information","Dinamiskā bloka informācija"
-"Dynamic Block","Dinamiskais bloks"
-"Dynamic Block Type","Dinamiskā bloka veids"
-"Are you sure you want to delete these dynamic blocks?","Vai vēlaties dzēst šos dinamiskos blokus?"
-"Related Dynamic Blocks","Saistītie dinamiskie bloki"
+Visibility,Redzamība
 Position,Pozīcija
 "This rule no longer exists.","Šis noteikums vairs neeksistē."
-"You deleted the dynamic block.","Jūs nodzēsāt dinamisko bloku."
-"Something went wrong while deleting dynamic block data. Please review the action log and try again.","Kļūda dzēšot dinamisko bloku datus. Pārbaudiet log failu un mēģiniet vēlreiz."
-"We cannot find a dynamic block to delete.","Nevar atrast dzēšamo dinamisko bloku."
-"This dynamic block no longer exists.","Dinamiskais bloks vairs neeksistē."
-"Edit Dynamic Block","Labot dinamisko bloku"
-"Please select a dynamic block(s).","Izvēlieties dinamisko bloku(s)."
 "You deleted %1 record(s).","Nodzēsts %1 ieraksts(i)."
-"Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.","Kļūda dzēšot vairākus dinamiskos blokus. Pārbaudiet log failu un mēģiniet vēlreiz."
-"This dynamic block does not exist.","Šis dinamiskais bloks neeksistē."
-"You saved the dynamic block.","Jūs saglabājāt dinamisko bloku."
-"We cannot save the dynamic block.","Nevar saglabāt dinamisko bloku."
 "Please enter a name.","Ievadiet nosaukumu."
 "-- None --","-- Neviens --"
 "Content Area","Satura apgabals"
@@ -976,22 +926,46 @@ Footer,Kājene
 Header,Galvene
 "Left Column","Kreisā kolonna"
 "Right Column","Labā kolonna"
-"Manage Dynamic Blocks","Parvaldīt dinamiskos blokus"
-"Dynamic Blocks Rotator","Dinamisko bloku rotācija"
-"Displays Specified or Promotion Dynamic Blocks","Parāda norādītos vai Atzīmētos Dinamiskos blokus"
-"Dynamic Blocks to Display","Kurus Dinamiskos blokus rādīt"
-"Specified Dynamic Blocks","Norādītie Dinamiskie bloki"
-"Cart Price Rule Related","Saistīts ar Groza cenas noteikumiem"
-"Catalog Price Rule Related","Kataloga cenu saistītie noteikumi"
-"Restrict by Dynamic Block Types","Ierobežot pēc Dinamiskajiem blokiem"
 "Rotation Mode","Rotācijas režīms"
 "Display all instead of rotating","Rādīt visus nerotējot"
 "One at the time, Random","Katrā reizē viens, Nejaušs"
 "One at the time, Series","Katrā reizē viens, Grupas"
 "One at the time, Shuffle","Katrā reizē viens, Sajauktā kārtībā"
+"Dynamic Blocks","Dinamiskie bloki"
+"Add Dynamic Block","Pievienot dinamisko bloku"
+"Save Dynamic Block","Saglabāt dinamisko bloku"
+"Delete Dynamic Block","Dzēst dinamisko bloku"
+"New Dynamic Block","Jauns dinamiskais bloks"
+"Dynamic Block Default Content for All Store Views","Dinamiskā bloka noklusētais saturs visiem Veikala skatiem"
+"Dynamic Block Properties","Dinamiskā bloka opcijas"
+"Dynamic Block Name","Dinamiskā bloka nosaukums"
+"Any Dynamic Block Type","Pievienot dinamiskā bloka veidu"
+"Specified Dynamic Block Types","Specifiski Dinamisko bloku veidi"
+"Dynamic Block Information","Dinamiskā bloka informācija"
+"Dynamic Block","Dinamiskais bloks"
+"Dynamic Block Type","Dinamiskā bloka veids"
+"Are you sure you want to delete these dynamic blocks?","Vai vēlaties dzēst šos dinamiskos blokus?"
+"Related Dynamic Blocks","Saistītie dinamiskie bloki"
+"You deleted the dynamic block.","Jūs nodzēsāt dinamisko bloku."
+"Something went wrong while deleting dynamic block data. Please review the action log and try again.","Kļūda dzēšot dinamisko bloku datus. Pārbaudiet log failu un mēģiniet vēlreiz."
+"We cannot find a dynamic block to delete.","Nevar atrast dzēšamo dinamisko bloku."
+"This dynamic block no longer exists.","Dinamiskais bloks vairs neeksistē."
+"Edit Dynamic Block","Labot dinamisko bloku"
+"Please select a dynamic block(s).","Izvēlieties dinamisko bloku(s)."
+"Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.","Kļūda dzēšot vairākus dinamiskos blokus. Pārbaudiet log failu un mēģiniet vēlreiz."
+"This dynamic block does not exist.","Šis dinamiskais bloks neeksistē."
+"You saved the dynamic block.","Jūs saglabājāt dinamisko bloku."
+"We cannot save the dynamic block.","Nevar saglabāt dinamisko bloku."
+"Manage Dynamic Blocks","Parvaldīt dinamiskos blokus"
+"Dynamic Blocks Rotator","Dinamisko bloku rotācija"
+"Displays Specified or Promotion Dynamic Blocks","Parāda norādītos vai Atzīmētos Dinamiskos blokus"
+"Dynamic Blocks to Display","Kurus Dinamiskos blokus rādīt"
+"Specified Dynamic Blocks","Norādītie Dinamiskie bloki"
+"Restrict by Dynamic Block Types","Ierobežot pēc Dinamiskajiem blokiem"
 "Specify Dynamic Blocks","Norā'dit Dinamiskos blokus"
 "Dynamic Block Inline Template","Dinamisko Bloku Iekļautais Šablons"
-Visibility,Redzamība
+"Cart Price Rule Related","Saistīts ar Groza cenas noteikumiem"
+"Catalog Price Rule Related","Kataloga cenu saistītie noteikumi"
 "All Segments","Visi segmenti"
 "Customer Segment","Klientu segments"
 "Allowed Credit Card Types","Atļautie kredītkaršu veidi"
@@ -1291,8 +1265,8 @@ Invoiced,"Piestādīts rēķins"
 Shipped,Piegādāts
 Refunded,Atmaksāts
 Canceled,Atcelts
-"Regular Price","Parastā cena"
 "As low as","Samazināt līdz"
+"Regular Price","Parastā cena"
 "Buy %1 with %2 discount each","Pērc %1 ar %2 atlaidi katram"
 "Go back to product details","Atpakaļ uz produkta detaļām"
 "Customize and Add to Cart","Pielāgot un pievienot grozam"
@@ -1342,14 +1316,11 @@ Forms,Formas
 "Enable CAPTCHA on Storefront","Ieslēgt CAPTCHA veikala priekšpusē"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","Ja atzīmēts, tad CAPTCHA ir vienmēr ieslēgta priekš ""Izveidot jaunu lietotāju"" un ""Aizmirsta parole"" formām."
 Root,Sakne
-"Are you sure you want to delete this category?","Vai esat parliecināts/-a, ka vēlaties dzēst šo kategoriju?"
 "Use Config Settings","Lietot konfigurācijas iestatījumus"
 "Use All Available Attributes","Izmantot visus pieejamos atribūtus"
 "Add Subcategory","Pievienot apakškategoriju"
 "Add Root Category","Pievienot saknes kategoriju"
 Day,Diena
-from,no
-to,līdz
 [GLOBAL],[GLOBĀLI]
 [WEBSITE],[Majaslapa]
 "WYSIWYG Editor","WYSIWYG redaktors"
@@ -1410,9 +1381,9 @@ Empty,Tukšs
 "Add Attribute","Pievienot atribūtu"
 "Add New Group","Pievienot jaunu grupu"
 "Add Group","Pievienot grupu"
+"Edit Attribute Set Name","Labot atribūtu kopas nosaukumu"
 "For internal use","Iekšējai lietošanai"
 "Based On","Pamatojoties uz"
-"Edit Attribute Set Name","Labot atribūtu kopas nosaukumu"
 "Add New Attribute Set","Pievienotu jaunu atribūtu kopu"
 "Add Attribute Set","Pievienot atribūtu kopu"
 "Attribute Sets","Atribūtu kopas"
@@ -1484,8 +1455,8 @@ Categories,Kategorijas
 "Category is not available for requested store.","Kategorija nav pieejama pieprasītajam veikalam."
 "There was a category move error.","Kļūda pārvietojot kategoriju."
 "You moved the category.","Kategorija ir pārvietota."
-"Something went wrong while saving the category.","Kļūda saglabājot kategoriju."
 "You saved the category.","Kategorija ir saglabāta."
+"Something went wrong while saving the category.","Kļūda saglabājot kategoriju."
 "Please select products for attributes update.","Izvēlieties produktus atribūtu atjaunināšanai."
 "Please make sure to define SKU values for all processed products.","Pārliecinieties ka nodefinējāt artikulus visiem procesētajiem produktiem."
 "Something went wrong while updating the product(s) attributes.","Kļūda atjaunojot produktu atribūtus."
@@ -1503,7 +1474,7 @@ Categories,Kategorijas
 "You saved the product attribute.","Produkta atribūts ir saglabāts."
 "An attribute with this code already exists.","Atribūts ar šādu kodu jau eksistē."
 "An attribute with the same code (%1) already exists.","Atribūts ar tādu pašu kodu (%1) jau eksistē."
-"The value of Admin must be unique. (%1)","Admin vērtībai jābūt unikālai. (%1)"
+"The value of Admin must be unique.","Admin vērtībai jābūt unikālai."
 "The value of Admin scope can't be empty.","Admin vērtība nevar būt tukša."
 "You duplicated the product.","Produkts ir duplicēts."
 "This product doesn't exist.","Šāds produkts neeksistē."
@@ -1627,6 +1598,9 @@ Category,Kategorija
 "Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","Nepareiza atribūta vērtība = %cost. Rindas ID: SKU = %SKU, Veikala ID: %storeId."
 "Could not save Prices.","Nevarēja saglabāt cenas."
 "Could not delete Prices","Nevarēja dzēst cenas"
+"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Pieprasītais veikals nav atrodams. Rindas ID: SKU = %SKU, Veikala ID: %storeId, Cena no: %priceFrom, Cena līdz: %priceTo."
+"Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Nepareizs atribūts %label = %priceTo. Rindas ID: SKU = %SKU, Veikala ID: %storeId, Cena no: %priceFrom, Cena līdz: %priceTo."
+"Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Nepareiza atribūta cena = %price. Rindas ID: SKU = %SKU, Veikala ID: %storeId, Cena no: %priceFrom, Cena līdz: %priceTo."
 "Could not save Tier Prices","Nevar saglabāt Cenu līmeni"
 "Could not replace Tier Prices","Nevar aizvietot Cenu līmeni"
 "Could not delete Tier Prices","Nevar nodzēst Cenu līmeni"
@@ -1663,12 +1637,7 @@ Dropdown,"Nolaižamā izvēlne"
 "%1 doesn't extend \Magento\Framework\Filter\Template","%1 nepaplašina \Magento\Framework\Filter\Template"
 "Could not get extension attributes","Nevar iegūt paplašinājums atribūtus"
 message,ziņa
-"Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Nepareiza atribūta cena = %price. Rindas ID: SKU = %SKU, Veikala ID: %storeId, Cena no: %priceFrom, Cena līdz: %priceTo."
-"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Pieprasītais veikals nav atrodams. Rindas ID: SKU = %SKU, Veikala ID: %storeId, Cena no: %priceFrom, Cena līdz: %priceTo."
-"Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Nepareizs atribūts %label = %priceTo. Rindas ID: SKU = %SKU, Veikala ID: %storeId, Cena no: %priceFrom, Cena līdz: %priceTo."
 "Lock wait timeout","Bloķēšanas laika beigas"
-"Product Name or SKU","Produkta nosaukums vai Artikuls"
-"Start typing to find products","Sāciet rakstīt, lai meklētu produktus"
 "Advanced Pricing","Izvērsta cenošana"
 "Customer Group Price","Klientu grupas cena"
 "Customer Group","Klientu grupa"
@@ -1711,12 +1680,11 @@ name,nosaukums
 "Manage Titles (Size, Color, etc.)","Pārvaldīt nosaukumus (Krāsa, Izmērs, u.c.)"
 "Manage Options (Values of Your Attribute)","Pārvaldīt opcijas (Atribūtu vērtības)"
 "Sort Option","Kārtošanas opcijas"
-"The value of Admin must be unique.","Admin vērtībai jābūt unikālai."
 Groups,Grupas
 "Double click on a group to rename it.","Dubultklikšķis uz grupas lai izlabotu nosaukumu."
 "Unassigned Attributes","Nepiešķirtie atribūti"
-"This group contains system attributes. Please move system attributes to another group and try again.","Grupa satur sistēmas atribūtus. Pārvietojiet sistēmas atribūtus uz citu grupu un mēģiniet vēlreiz."
 "A name is required.","Nosaukums ir obligāts."
+"This group contains system attributes. Please move system attributes to another group and try again.","Grupa satur sistēmas atribūtus. Pārvietojiet sistēmas atribūtus uz citu grupu un mēģiniet vēlreiz."
 "Please select a node.","Izvēlieties mezglu."
 "Please enter a new group name.","Ievadiet jaunu grupas vārdu."
 "An attribute group named ""/name/"" already exists.","Atribūtu grupa ""/name/"" jau eksistē."
@@ -1773,7 +1741,6 @@ Role,Loma
 "Buy %1 for: ","Pirkt %1 par: "
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Pirkt %1 par %2 katru un <strong class=""benefit"">saglabāt<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>"
 "Buy %1 for %2 each","Pirkt %1 par %2 katru"
-"You added product %1 to the <a href=""%2"">comparison list</a>.","Jūs pievienojāt produktu %1 <a href=""%2"">salīdzināšanai</a>."
 "Shop By","Iepirkties pēc"
 "Shopping Options","Iepirkšanās opcijas"
 "Compare Products","Salīdzināt produktus"
@@ -1795,25 +1762,22 @@ Prev,Iepr
 "Items %1-%2 of %3","Produkti %1-%2 no %3"
 "%1 Item","%1 produkts"
 "%1 Items","%1 Produkti"
+Show,Rādīt
 "Sort By","Kārtot pēc"
 "Set Ascending Direction","Iestatīt augošā secībā"
 "Set Descending Direction","Iestatīt dilstošā secībā"
 "View as","Apskatīt kā"
 "More Information","Vairāk informācijas"
-"Maximum %1 characters","Maksimums %1 simboli"
 "Warning message","Brīdinājuma ziņa"
 "We don't recognize or support this file extension type.","Neatbalsta vai neatpazīst šo faila paplašinājumu."
 "Configure Product","Konfigurēt produktu"
 OK,Labi
-"This value does not follow the specified format (for example, 200X300).","Vērtība neatbilst norādītajam formātam (piemēram, 200x300)."
 "Select type of option.","Izvēlieties opcijas veidu."
 "Please add rows to option.","Pievienot rindas opcijai."
 "Choose existing category.","Izvēlēties esošu kategoriju."
 "Image Detail","Attēla detaļas"
 Adding...,Pievieno...
 Added,Pievienots
-remaining,atlicis
-"too many","par daudz"
 "does not implement Storage Interface","neiekļauj Glabāšanas Interfeisa implementāciju"
 "unselect all","noņemt atlasi visam"
 Inventory,Inventārs
@@ -1858,8 +1822,6 @@ Comma-separated.,"Atdalīti ar komatu."
 "Time Format","Laika formāts"
 "Year Range","Gada robežās"
 "Please use a four-digit year format.","Izmantojiet četrciparu gadskaitļa formātu."
-"Use Static URLs for Media Content in WYSIWYG","Lietot statiskas saites mēdiju saturam WYSIWYG redaktorā"
-"Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Mēdiju saturs tiks ievietots editorā kā statiska saite. Mēdiju saturs netiks atjaunots, ja sistēmas konfigurācijā mainās pamata URL."
 "Top Level Category","Augstākā līmeņa kategorija"
 "Product Info Column","Produkta informācijas kolonna"
 "Block after Info Column","Bloks pēc Informācijas kolonnas"
@@ -1968,6 +1930,19 @@ Overview,Pārskats
 "Add To Compare","Pievienot salīdzināšanai"
 "Learn more","Uzziniet vairāk"
 "Recently Viewed","Nesen apskatītie"
+"Are you sure you want to delete this category?","Vai esat parliecināts/-a, ka vēlaties dzēst šo kategoriju?"
+from,no
+to,līdz
+"You added product %1 to the <a href=""%2"">comparison list</a>.","Jūs pievienojāt produktu %1 <a href=""%2"">salīdzināšanai</a>."
+"Maximum %1 characters","Maksimums %1 simboli"
+remaining,atlicis
+"too many","par daudz"
+"This value does not follow the specified format (for example, 200X300).","Vērtība neatbilst norādītajam formātam (piemēram, 200x300)."
+"The value of Admin must be unique. (%1)","Admin vērtībai jābūt unikālai. (%1)"
+"Product Name or SKU","Produkta nosaukums vai Artikuls"
+"Start typing to find products","Sāciet rakstīt, lai meklētu produktus"
+"Use Static URLs for Media Content in WYSIWYG","Lietot statiskas saites mēdiju saturam WYSIWYG redaktorā"
+"Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Mēdiju saturs tiks ievietots editorā kā statiska saite. Mēdiju saturs netiks atjaunots, ja sistēmas konfigurācijā mainās pamata URL."
 "Edit Event","Rediģēt Notikumu"
 "Add Event","Pievienot Notikumu"
 Events,Notikumi
@@ -1995,13 +1970,13 @@ Closed,Slēgts
 "This product is no longer on sale.","Šis produkts vairs nav pārdošanā."
 "Some of these products can no longer be sold.","Vairākus no šiem produktiem vairs nevar pārdot."
 "Select Category","Izvēlieties kategoriju"
+Days,Dienas
 Hrs,Stundas
 Mins,Minūtes
 Sec,Sek
 "Preview Sale","Paraugu izpārdošana"
 "Go To Sale",Izpārdošana
 "View Sale","Apskatīt izpārdošanu"
-Days,Dienas
 "Catalog Events","Kataloga pasākumi"
 "Enable Catalog Events Functionality","Ieslēgt kataloga pasākumu funkcionalitāti"
 "Enable Catalog Event Widget on Storefront","Ieslēgt kataloga pasākumu rīklogu veikalā"
@@ -2138,6 +2113,7 @@ Path,Ceļš
 "Catalog Products List","Kataloga produktu saraksts"
 "List of Products","Produktu saraksts"
 "Products Grid Template","Produktu režģa šablons"
+"Invalid method: %1","Neatļauta metode: %1"
 "My Cart (1 item)","Mans grozs (1 prece)"
 "My Cart (%1 items)","Mans grozs (%1 preces)"
 "My Cart","Mans grozs"
@@ -2178,7 +2154,6 @@ Checkout,"Pirkuma noformēšana"
 "Sorry, guest checkout is not available.","Atvainojiet, pirkuma noformēšana nav pieejama nereģistrētiem lietotājiem."
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Jums ir jāapstiprina jūsu profils. Lūdzu pārbaudiet savu e-pastu un nospiediet uz apstriprinājuma saites vai <a href=""%1"">nospiediet šeit</a> lai iegūtu jaunu saiti."
 "Load customer quote error","Ielādēt klienta pirkumu"
-"Invalid method: %1","Neatļauta metode: %1"
 Error!,Kļūda!
 "DB exception","DB kļūda"
 "Apply Discount Code","Pielietot atlaides kodu"
@@ -2218,26 +2193,21 @@ Update,Atjaunināt
 "You can create an account after checkout.","Jūs varat izveidot profilu pēc pasūtījuma noformēšanas."
 "You already have an account with us. Sign in or continue as guest.","Jums jau ir profils. Pieskaties vai turpiniet lietot nereģistrējoties."
 Login,Lietotājvārds
-"Items in Cart","Preces grozā"
-"Item in Cart","Prece grozā"
-"Recently added item(s)","Nesen pievienotie produkti(s)"
-"View and Edit Cart","Skatīt un labot pirkuma grozu"
 "See Details","Sīkāka informācija"
 "Options Details","Opciju detaļas"
 "Cart Subtotal","Groza starpsumma"
 "No Payment method available.","Norēķinu veidi nav pieejami."
 "You can track your order status by creating an account.","Jūs varat izsekot sava pirkuma statusam, ja izveidosiet profilu."
-"Create an Account","Izveidot kontu"
 "Forgot an Item?","Aizmirsi pievienot produktu?"
 "Edit Your Cart","Atjauniniet savu pirkuma grozu"
 "Ship Here","Piegādāt šeit"
 "Ship To:","Piegādāt uz:"
 edit,labot
-"Shipping Address","Piegādes adreses"
-"New Address","Jauna adrese"
 "Order Summary","Pasūtījumu pārskats"
+"View and Edit Cart","Skatīt un labot pirkuma grozu"
 "Provided Zip/Postal Code seems to be invalid.","Norādītais pasta indeks nav pareizs."
 " Example: "," Piemērs: "
+"New Address","Jauna adrese"
 "Are you sure you would like to remove this item from the shopping cart?","Vai esat pārliecināti, ka vēlaties izņemt šo preci no ieprirkumu groza?"
 "Review & Payments","Pārskats un maksājumi"
 "Save Address","Saglabāt adresi"
@@ -2248,9 +2218,13 @@ edit,labot
 "Display Cart Summary","Rādīt groza kopsavilkumu"
 "Separate by "","".","Atdali ar "",""."
 "Order Total","Pirkuma summa"
+"Shipping Address","Piegādes adreses"
 Payment,Apmaksa
 "Not yet calculated","Vēl nav aprēķināts"
 "Thank you for your purchase!","Paldies par pirkumu!"
+"Recently added item(s)","Nesen pievienotie produkti(s)"
+"Item in Cart","Prece grozā"
+"Items in Cart","Preces grozā"
 "Terms and Conditions","Noteikumi un Nosacījumi"
 "Add New Condition","Pievienot Jaunu Nosacījumu"
 Condition,Nosacījums
@@ -2263,6 +2237,7 @@ Identifier,Identifikators
 "Manage Pages","Pārvaldīt lapas"
 "Add New Page","Pievienot jaunu lapu"
 "Delete Page","Dzēst lapu"
+"Save Page","Saglabāt lapu"
 Created,Izveidots
 "Media Storage","Mediju uzglabāšana"
 "Delete Folder","Dzēst direktoriju"
@@ -2287,7 +2262,6 @@ Pages,Lapas
 "We can't delete root directory %1 right now.","Mēs nevaram izdzēst galveno katalogu %1 pašlaik."
 View,Skatīt
 "No files found","Faili nav atrasti"
-"Save Page","Saglabāt lapu"
 "Content Management","Satura pārvaldība"
 "CMS Home Page","CMS mājas lapa"
 "CMS No Route Page","CMS lapa bez pārvirzīšanas"
@@ -2321,9 +2295,9 @@ Block,Bloks
 test,pārbaude
 "Localized Exception.","Lokalizēts izņēmums."
 "Role Name","Lomas nosaukums"
-"User Role","Lietotāja loma"
 "Please select a region, state or province.","Izvēlieties reģionu, štatu vai novadu."
 "Phone Number","Tālruņa numurs"
+"User Role","Lietotāja loma"
 Contacts,Kontakti
 "Role Information","Lomas informācija"
 "Save Role","Saglabātu lomu"
@@ -2339,6 +2313,7 @@ Updated,Atjaunināts
 Purchased,Nopirkts
 "Store Credit","Veikala Kredīts"
 "Order # %1","Pasūtījums # %1"
+"This is a required field.","Šis ir obligāts lauks."
 Rate,Likme
 Date,Datums
 "Default Config","Noklusējuma Konfigurācija"
@@ -2365,8 +2340,8 @@ Select,Izvēlēties
 "Upload Image","Augšuplādēt attēlu"
 "Upload image","Augšuplādēt attēlu"
 "No Image","Nav attēla"
-"Enable Product","Aktivizēt produktu"
 "New Product Review","Jauna produkta pārskats"
+"Enable Product","Aktivizēt produktu"
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Paldies ka sazinājāties ar mums. Mēs atbildēsim Jums visdrīzākajā laikā."
 "Write Us","Rakstiet mums"
 "Jot us a note and we’ll get back to you as quickly as possible.","Nosūtiet mums ziņu un mēs Jums atbildēsim visātrāk iespējamajā laikā."
@@ -2446,9 +2421,9 @@ Newsletters,Jaunumi
 "Default Addresses","Noklusējuma adrese"
 "Change Billing Address","Mainīt Rēķina Adresi"
 "Change Shipping Address","Mainīt piegādes adresi"
+"Additional Address Entries","Citas adreses"
 "It's a default billing address.","Tā ir noklusētā rēķinu adrese."
 "It's a default shipping address.","Tā ir noklusētā piegādes adrese."
-"Additional Address Entries","Citas adreses"
 "Change Email","Mainīt e-pasta adresi"
 "Current Password","Pašreizējā parole"
 "Password Strength","Paroles stiprums"
@@ -2618,7 +2593,6 @@ Combined,Kombinēta
 "Gift Card Is Redeemable","Dāvanu karte ir izpērkama"
 "We cannot create this gift card.","Nevar izveidot šo dāvanu karti."
 "Gift Card Accounts","Dāvanu kartes konti"
-"Some gift card accounts were not created properly. You can create gift card accounts manually <a href=""%1"">here</a>.","Atsevišķi dāvanu kartes konti netika pareizi izveidoti. Jūs varat izveidot dāvanu kartes kontus manuāli <a href=""%1"">šeit</a>."
 "Duplicate amount found.","Atrasts dubults skaits."
 "Something went wrong while preparing the gift card.","Kļūda sagatavojot dāvanu karti."
 "Please specify a gift card amount.","Norādiet dāvanu kartes summu."
@@ -2629,6 +2603,7 @@ Combined,Kombinēta
 "Please specify a sender name.","Norādiet sūtītāja vārdu."
 "Please specify a recipient email.","Norādiet saņēmēja e-pastu."
 "Please specify a sender email.","Norādiet sūtītāja e-pastu."
+"Some gift card accounts were not created properly. You can create gift card accounts manually <a href=""%1"">here</a>.","Atsevišķi dāvanu kartes konti netika pareizi izveidoti. Jūs varat izveidot dāvanu kartes kontus manuāli <a href=""%1"">šeit</a>."
 "Treat Balance as Store Credit","Izmantot Balansu kā Veikala kredītu"
 "Lifetime (days)","Dzīves ilgums (dienas)"
 "Allow Message","Atļaut ziņu"
@@ -2761,11 +2736,11 @@ Wishlist,"Vēlmju saraksts"
 "Enter a New Address","Ievadiet jaunu adresi"
 "Shipping To","Piegādājam uz"
 "Order Review","Pasūtījumu pārskats"
-Error:,Kļūda:
 "Allow Shipping to Multiple Addresses","Atļaut piegādi uz vairākām adresēm"
 "Maximum Qty Allowed for Shipping to Multiple Addresses","Maksimālais skaits piegādei uz vairākām adresēm"
 "Review Order","Pārskatīt pasūtījumu"
 "Select Shipping Method","Izvēlieties piegādes veidu"
+Error:,Kļūda:
 Qty:,Skaits:
 "Thank you,","Paldies,"
 "Go to Checkout","Noformēt pirkumu"
@@ -3007,7 +2982,6 @@ Ship,Piegādāt
 "Show Actual Values","Rādīt faktiskās vērtības"
 Value,Vērtība
 "Back to My Orders","Atpakaļ pie maniem pasūtījumiem"
-"You have placed no orders.","Jūs vēl neesat izveidojuši pasūtījumus."
 "Print Order # %1","Drukāt pasūtījumu # %1"
 """%1"" coupon code was not applied. Do not apply discount is selected for item(s)","atlaižu kods ""%1"" netika piemērots. Nevar piemērot atlaides izvēlētajai precei (ēm)"
 "Orders and Returns","Pasūtījumi un atgriešana"
@@ -3020,6 +2994,7 @@ Value,Vērtība
 "New Orders","Jauni pasūtījumi"
 "No Payment Methods","Norēķinu veidi nav pieejami"
 "Shipping &amp; Handling","Piegāde un apstrāde"
+"You have placed no orders.","Jūs vēl neesat izveidojuši pasūtījumus."
 "Print Order","Pasūtījuma izdruka"
 "Thank you for your order from %store_name.","Paldies par pirkumu %store_name."
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Jūs varat pārbaudīt savu pasūtījumu statusu <a href=""%account_url"">pieslēdzoties kontam</a>."
@@ -3085,7 +3060,6 @@ Hits,Klikšķi
 "Limit Sending By","Limitēt sūtīšanu pēc"
 Assign,Piešķirt
 of,no
-"Delivered on:",Piegādāts:
 "Cannot add tracking number.","Nevar pievienot sekošanas numuru."
 "New Shipment","Jauns sūtījums"
 "The shipping module is not available.","Piegādes modulis nav pieejams."
@@ -3102,6 +3076,7 @@ Carrier:,Pārvadātājs:
 "email us at ","sūtīt e-pastu uz "
 Info:,Informācija:
 Track:,Sekot:
+"Delivered on:",Piegādāts:
 "There is no tracking available for this shipment.","Šai piegādei nav pieejama izsekošana."
 "There is no tracking available.","Izsekošana nav pieejama."
 "Local Time","Vietējais laiks"
@@ -3168,9 +3143,9 @@ Note:,Piezīmes:
 "Invalid file upload attempt","Nepareiza faila augšupielādēšanas mēģinājums"
 "Invalid file upload attempt.","Nepareiza faila augšupielādēšanas mēģinājums."
 "Invalid file format.","Nepareizs faila formāts."
-"Country code is invalid: %1","Nederīgs valsts kods: %1"
 "Import Tax Rates","Importēt nodokļu likmes"
 "Export Tax Rates","Eksportēt nodokļu likmes"
+"Country code is invalid: %1","Nederīgs valsts kods: %1"
 "Import/Export Tax Rates","Importēt vai eksportēt nodokļu likmes"
 "Save and Continue","Saglabāt un turpināt"
 Themes,Tēmas
@@ -3183,6 +3158,7 @@ Themes,Tēmas
 "Create Folder","Izveidot direktoriju"
 "Insert File","Ievietot failu"
 "%1 Item(s)","%1 Produkts(i)"
+Page,Lapa
 Menu,Izvēlne
 Account,Konts
 "TinyMCE 3 (deprecated)","TinyMCE 3 (novecojušais)"
@@ -3198,6 +3174,7 @@ Translations,Tulkojumi
 "Add New %1","Pievienot jaunu %1"
 "New %1","Jaunu %1"
 Filters,Filtri
+Selected,Izvēlētie
 "New View","Jauns skats"
 "Default View","Noklusējuma skats"
 Keyword,Atslēgvārds
@@ -3331,7 +3308,6 @@ Country/State,Valsts/Štats
 "Widget Insertion","Logrīka iespraušana"
 "Insert Widget","Ievietot logrīku"
 Choose...,Izvēlēties...
-"Inserting a widget does not create a widget instance.","Rīkloga ievietošana neizveido pašu rīklogu."
 "Widget Type","Logrīka veids"
 "Manage Widget Instances","Pārvaldīt logrīkus"
 "Add Widget","Pievienot logrīku"
@@ -3352,6 +3328,7 @@ Choose...,Izvēlēties...
 "All Pages","Visas lapas"
 "Specified Page","Norādītā lapa"
 "Add Layout Update","Pievienot izkārtojuma atjaunināšanu"
+"Remove Layout Update","Noņemt izkārtojuma atjauninājumu"
 "Widget Options","Logrīka opcijas"
 "Please specify a Widget Type.","Norādiet logrīka veidu."
 "Please specify a correct widget.","Norādiet pareizu logrīku."
@@ -3361,10 +3338,10 @@ Widgets,Logrīki
 "The widget instance has been saved.","Logrīks tika saglabāts."
 description,apraksts
 "We cannot create the widget instance because it is missing required information.","Nevar izveidot logrīku, jo trūkst visa nepieciešamā informācija."
-"Remove Layout Update","Noņemt izkārtojuma atjauninājumu"
 "Specific %1","Specifisks %1"
 "Defines whether a link to My Account","Nosaka vai saitēt uz Manu kontu"
 "Widget ID","Logrīka ID"
+"Inserting a widget does not create a widget instance.","Rīkloga ievietošana neizveido pašu rīklogu."
 "Wish List Sharing","Vēlmju saraksta koplietošana"
 "My Wish List","Mans vēlmju saraksts"
 "We can't specify a product.","Nevaram norādīt produktu."
@@ -3373,15 +3350,14 @@ description,apraksts
 "We can't add the item to the cart right now.","Pašlaik nevar pievienot produktu grozam."
 "%1 has been moved to your wish list.","%1 tika pievienots Vēlmju sarakstam."
 "We can't move the item to the wish list.","Nevar pievienot produktu Vēlmju sarakstam."
-"You must login or register to add items to your wishlist.","Jums jāpieslēdzas lai varētu pievienot produktus Vēlmju sarakstam."
 "We can't delete the item from Wish List right now because of an error: %1.","Nevar nodzēst produktu no Vēlmju saraksta. Kļūda: %1."
 "We can't delete the item from the Wish List right now.","Pašlaik nevar nodzēst produktu no Vēlmju saraksta."
 "Message length must not exceed %1 symbols","Ziņas garums nevar pārsniegt %1 simbolus"
 "Your wish list has been shared.","Vēlmju saraksts tika koplietots."
 "We can't delete item from Wish List right now.","Pašlaik nevar nodzēst produktu no Vēlmju saraksta."
-"%1 has been updated in your Wish List.","%1 tika atjaunots Vēlmju sarakstā."
 "Can't save description %1","Nevar saglabāt aprakstu %1"
 "Can't update wish list","Nevar atjaunot vēlmju sarakstu"
+"%1 has been updated in your Wish List.","%1 tika atjaunots Vēlmju sarakstā."
 "We can't update your Wish List right now.","Pašlaik nevar atjaunot Vēlmju sarakstu."
 "The requested Wish List doesn't exist.","Pieprasītais vēlmju saraksts neeksistē."
 "Display number of items in wish list","Parādīt produktu skaitu Vēlmju sarakstā"
@@ -3417,14 +3393,15 @@ error-message,"kļūdas paziņojums"
 "Wish List Section","Vēlmju saraksta sadaļa"
 "Share Options","Koplietošanas opcijas"
 "Max Emails Allowed to be Sent","Maksimāli atļautais vēstuļu skaits e-pastu sūtīšanai"
-"10 by default. Max - 10000","10 pēc noklusējuma. Maksimālais - 10000"
 "Email Text Length Limit","E-pasta teksta garuma limits"
-"Show in Sidebar","Rādīt sānu joslā"
 "My Wish List Link","Mana Vēlmju saraksta saite"
 "Display Wish List Summary","Rādīt Vēlmju saraksta kopsavilkumu"
 "No Items Found","Nav atrasti produkti"
 "User Description","Lietotāja apraksts"
 "Product Details and Comment","Produkta informācija un komentāri"
+"10 by default. Max - 10000","10 pēc noklusējuma. Maksimālais - 10000"
+"You must login or register to add items to your wishlist.","Jums jāpieslēdzas lai varētu pievienot produktus Vēlmju sarakstam."
+"Show in Sidebar","Rādīt sānu joslā"
 "Missing key ""model"" in Wishlist Item value data","Nav pieejama atslēga ""model"" Vēlmju saraksta vienības datos"
 "Missing key ""model"" in Wishlist value data","Nav pieejama atslēga ""model"" Vēlmju saraksta datos"
 "Credit card type","Kredītkartes veids"
@@ -3485,9 +3462,6 @@ Captured,Saņemts
 "Update to your %store_name shipment","Piegādes atjauninājumi no %store_name"
 "Backup options","Rezerves kopijas opcijas"
 Warning,Brīdinājums
-"Insert Variable","Ievadīt Mainīgo"
-"Insert Widget","Ievietot Logrīku"
-"The widget %1 is no longer available. Select a different widget.","Logrīks %1 vairs nav pieejams. Izvēlieties citu logrīku."
 "Recent items","Nesen pievienotie produkti"
 "Show all...","Parādīt visus..."
 "Please enter a number greater 0 in this field.","Lūdzu, ievadiet skailti lielāku par 0."
@@ -3495,7 +3469,6 @@ Warning,Brīdinājums
 "Please specify Url.","Lūdzu, norādiet URL."
 "Method %s does not exist on jQuery.decorate","jQuery.decorate metode %s neeksistē"
 "Please wait...","Lūdzu, uzgaidiet..."
-"All %1","Visi %1"
 Translate,Tulkot
 "Please enter {0} words or less.","Lūdzu, ievadiet {0} vai mazāk vārdus."
 "Please enter at least {0} words.","Lūdzu, ievadiet vismaz {0} vārdus."
@@ -3504,7 +3477,6 @@ Translate,Tulkot
 "Letters, numbers, spaces or underscores only please","Lūdzu, tikai burtus, ciparus, atstarpes vai apakšsvītras"
 "Letters only please","Lūdzu, tikai burtus"
 "No white space please","Lūdzu, bez atstarpēm"
-"No marginal white space please","Lūdzu, bez marginālām atstarpēm"
 "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Jūsu Pasta Indeksa kodam ir jābūt robežās no 902xx-xxxx līdz 905-xx-xxxx"
 "Please enter a valid date.","Lūdzu, ievadiet derīgu datumu."
 "Please select a file.","Izvēlieties failu."
@@ -3525,3 +3497,7 @@ Translate,Tulkot
 "Please enter a valid year (1900-%1).","Lūdzu, ievadiet derīgu gadu (1900-%1)."
 "Please enter a valid day (1-%1).","Lūdzu, ievadiet derīgu dienu (1-%1)."
 "Please enter a date from the past.","Lūdzu, ievadiet pagājušu datumu."
+"No marginal white space please","Lūdzu, bez marginālām atstarpēm"
+"Insert Variable","Ievadīt Mainīgo"
+"Insert Widget","Ievietot Logrīku"
+"The widget %1 is no longer available. Select a different widget.","Logrīks %1 vairs nav pieejams. Izvēlieties citu logrīku."
